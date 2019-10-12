@@ -1,0 +1,2 @@
+﻿  Main.cpp
+D:\Setups\qtdemo-master\gears-service\Main.cpp(2,10): fatal error C1083: Cannot open include file: 'maf/messaging/client-server/ipc/LocalIPCServiceStub.h': No such file or directory
